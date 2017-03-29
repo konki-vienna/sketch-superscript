@@ -1,6 +1,8 @@
 # Sketch Superscript
 A plugin to superscript the value of a text field (e.g. "€ 99,99") after the comma.
 
+## Work in progress
+
 # Licence
 
 The MIT License (MIT)
