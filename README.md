@@ -1,4 +1,4 @@
-# Sketch Superscript Amounts :gem:
+# Superscript amounts :gem:
 A plugin to superscript text amounts (e.g. € 99,99 > € 99,<sup>99</sup>)
 
 ## Work in progress
